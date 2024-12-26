@@ -4,7 +4,7 @@
 
 #### This Project Is A **Nutrition Label**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The Primary Goal Is Learn Typography By Building A Nutrition Label
+#### The Primary Goal Is Learn Typography By Building A Nutrition Label.
 
 ## **Course Details**
 
